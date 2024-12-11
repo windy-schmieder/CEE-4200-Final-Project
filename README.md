@@ -13,8 +13,13 @@ This project consists of looking at the 2014-2016 drought in Brazil and adjustin
 The files that we use are in the form of .ipynb, they can be run using an IDE, if there are packages that you do not have here are the commands that should give you everything that you need to run the files
 
   pip install deap \
-  pip install 
+  pip install pandas\
+  pip install matplotlib\
+  pip install numpy\
+  pip install plotly\
+  pip install random\
+  
 
-## FILE #1: "data_ts_mb.csv"
+## FILE #1: "data.csv"
 
 ## FILE #2:
