@@ -54,7 +54,11 @@ The second block normalizes all of the individuals to be on a scale of (0,1). No
 
 This file has three blocks in it. The first is code that creates a graph to compare the updated storage level and historical storage levels over time. This code also prints out all of its calculations for each iteration: this was used to debug the code and ensure that the correct number of iterations were used. We kept it in because it is helpful and shows how all the values change at each specific date. \
 The second block is code that produces three graphs, the first being the historical storage level, the second being outflow over time, and the third being the drinking water deficit over time, the third block builds on this code using the new contingency plan. \
-The third block is code that produes two graphs that compare the outflow and deficits over time for both the historical and new contingency plan. 
+The third block is code that produes two graphs that compare the outflow and deficits over time for both the historical and new contingency plan.
+
+## File #5: "Drought Contingency Plan - Tomas Schmieder & Maoz Bizan.pdf"
+
+This file is our finalized report for the project!
 
 #### THANK YOU FOR A GREAT SEMESTER, PROFESSOR STEFANO!
 
