@@ -35,7 +35,7 @@ This file is a csv that contains the data that we found through online databases
   blank column \
   blank column \
   outflow in mcm/day \
-  outflow in m^3/s. \
+  outflow in m^3/s
 
 The data consists of points from 1/1/10 - 11/12/19. The time step between each of the data points differs between each point, which is why the change in time column is present and is used in the calculations.
 
