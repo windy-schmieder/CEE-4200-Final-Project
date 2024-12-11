@@ -40,6 +40,7 @@ This file is a csv that contains the data that we found through online databases
 
 The data was all acquired from sources listed in our bibliography in our paper. Most of the data was available online from various databases, and storage data was generated using InfeRes. InfeRes was used to generate storage time-series data for the Atibainha and Jaguari-Jacareí reservoirs. 
 InfeRes does not generate daily data due to satellite imagery limitations, while the other data sources did include daily data. Therefore, the data from each source was appropriately summed or averaged between multiple dates. This was done to create a complete dataset with data from all the databases as well as InfeRes, with complete data points for each date that InfeRes had data for both of the reservoirs studied, and other data such as precipitation and inflow was summed or averaged over the timespan of the missing days between each data point.\
+
 The data consists of points from 1/1/10 - 11/12/19. The time step between each of the data points differs between each point, which is why the change in time column is present and is used in the calculations.
 
 For the following files, **make sure that you replace the file_path at the beginning of the document with the file path of the data.csv file that you have downloaded.**
