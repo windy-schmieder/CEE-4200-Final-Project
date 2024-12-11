@@ -1,6 +1,6 @@
 # READ ME
 
-Tomás schmieder (tas274@cornell.edu) & Maoz Bizan (mb2389@cornell.edu)
+Tomás Schmieder (tas274@cornell.edu) & Maoz Bizan (mb2389@cornell.edu)
 
 
 
