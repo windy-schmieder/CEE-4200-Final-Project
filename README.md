@@ -29,7 +29,7 @@ The data consists of points from 1/1/10 - 11/12/19, the time step between each o
 For all of the next files make sure that you replace the file_path at the beginning of the document with the file path of the data.csv file that you have downloaded
 ## FILE #2: "Resilience & Reliability Checker.ipynb"
 
-This file allows you to calculate the average resilience and reliability of a specific contingency plan you input in the function of refvised_outflow_policy. Currently, the values in this file represent that of the optimal contingency plan.
+This file allows you to calculate the average resilience and reliability of a specific contingency plan you input in the function of revised_outflow_policy. Currently, the values in this file represent that of the optimal contingency plan.
 
 ## File #3: "Genetic Algorithm.ipynb"
 
