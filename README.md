@@ -33,7 +33,14 @@ This file allows you to calculate the average resilience and reliability of a sp
 
 ## File #3: "Genetic Algorithm.ipynb"
 
-This file has two blocks in it, the first is the actual genetic algorithm that looks at an initial population of 1000 and goes through 250 generations, to then graph all of the individuals and create a pareto front showing the trade-off between resilience and reliability.
-The second block normalizes all of the individuals to be on a scale of (0,1) since we don't have a "real" utopia point we can normalize the data so that it scales correctly and make our utopia point the maximum of (1,1), the code then calculates the distances between the individuals and the utopia point to find the one with the shortest distance and that becomes our best individual, a graph representing the normalized data is produced, showing this point.
+This file has two blocks in it, the first is the actual genetic algorithm that looks at an initial population of 1000 and goes through 250 generations, to then graph all of the individuals and create a pareto front showing the trade-off between resilience and reliability. \
+The second block normalizes all of the individuals to be on a scale of (0,1) since we don't have a "real" utopia point we can normalize the data so that it scales correctly and makes our utopia point the maximum of (1,1), the code then calculates the distances between the individuals and the utopia point to find the one with the shortest distance and that becomes our best individual, a graph representing the normalized data is produced, showing this point.
 
 ## File #4: "Graphing.ipynb
+
+This file has three blocks in it, the first is code that creates a graph to compare the updated storage level and historical storage levels over time. This code also prints out all of its calculations for each iteration, this was used to debug the code and ensure that the correct number of iterations were used. We kept it in because it is helpful and shows how all the values change at each specific date. \
+The second block is code that produces three graphs, the first being the historical storage level, the second being outflow over time, and the third being the drinking water deficit over time, the third block builds on this code using the new contingency plan. \
+The third block is code that produes two graphs that compare the outflow and deficits over time for both the historical and new contingency plan. 
+
+
+
