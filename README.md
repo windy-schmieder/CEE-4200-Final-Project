@@ -6,7 +6,7 @@ Tomás Schmieder (tas274@cornell.edu) & Maoz Bizan (mb2389@cornell.edu)
 
 Welcome to our final project for CEE 4200 Water Resources Management taught by Stefano Galelli at Cornell University!
 
-This project consists of looking at the 2014-2016 drought in Brazil and adjusting the outflows of the reservoirs into SPMR to adapt the system better when there is a drought. This was done using a genetic algorithm made in Python using DEAP and several other modules. You can find these files in the repository. Within this readme file, we will go over what each of the files is and how to use them!
+This project consists of looking at the 2014-2016 drought in Brazil and adjusting the outflows of the reservoirs into the São Paulo Metropolitan Region (SPMR) to adapt the system better when there is a drought. This was done using a genetic algorithm made in Python using DEAP and several other modules. You can find these files in the repository. Within this readme file, we will go over what each of the files is and how to use them!
 
 ## Before we start
 
